@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nomne é Alclides! Sou desenvolvedor Backend e Mobile! :)</h2>
+<h2 align="left">Hi 👋! Meu nomne é Alclides! Sou desenvolvedor Fullstack! :)</h2>
 
 ###
 
